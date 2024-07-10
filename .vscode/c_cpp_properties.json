@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                "e:/Project/VSCode/Hello World/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\mingw64\\bin\\gcc.exe",
+            "compilerPathInCppPropertiesJson": "D:\\mingw64\\bin\\gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "e:/Project/VSCode/Hello World/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "cStandard": "c23",
+            "cppStandard": "c++23"
+        }
+    ],
+    "version": 4
+}
